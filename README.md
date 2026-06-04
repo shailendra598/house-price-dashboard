@@ -1,5 +1,9 @@
 # 🏠 House Price Analysis Dashboard
 
+## 🌍 Live App
+
+🔗 https://house-price-dashboard-4wqhevktpbybcs8uadwohb.streamlit.app/
+
 This is an interactive Streamlit dashboard built using the Kaggle House Prices dataset.
 
 ## 🚀 Features
